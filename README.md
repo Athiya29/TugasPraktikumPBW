@@ -1,7 +1,6 @@
 # UAS lab PBW
 
 ## <b><big> Author </big></b>
-<p align="center"><img width="50%" height="" src="Author/C:\xampp\htdocs\labPBW-UAS\Author/Author.png"/></p>
 <p align="center"> sebuah website untuk mencari data buku yang ingin anda cari, website ini juga bisa untuk menyimpan sebuah data buku</p>
 <h4>𝐓𝐀𝐌𝐏𝐈𝐋𝐀𝐍</h4>
 <h4>𝐂𝐑𝐄𝐀𝐓𝐄</h4>
